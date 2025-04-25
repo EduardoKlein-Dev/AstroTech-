@@ -1,6 +1,6 @@
 // Gerenciamento de biblioteca Online
-Devido a grande procura por livros e uma alta taxa de inadimplencia a AstroTech procurou para ser feito um sistema de controle de livros, solicitando alguns requisistos nesse sistema.
+Devido a grande procura por livros e uma alta taxa de inadimplencia a AstroTech procurou para ser feito um sistema de controle de livros, solicitando alguns requisitos nesse sistema.
 Solicitou um cadastro de usuário, com dados como nome, data nascimento, cpf, e-mail
 Solicitou um cadastro de livros
-Solicitou um cadsatro de prateleiras onde cada livro irá
-Solicitou que o usuário recebesse u email 15 dias após a locacao do livro, sendo o prazo de devolucao 21 dias.
+Solicitou um cadastro de prateleiras onde cada livro ira
+Solicitou que o usuário recebesse um email 15 dias após a locacao do livro, sendo o prazo de devolucao 21 dias.
